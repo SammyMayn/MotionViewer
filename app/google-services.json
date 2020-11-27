@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "447077169675",
+    "firebase_url": "https://motionmonitorfirebase.firebaseio.com",
+    "project_id": "motionmonitorfirebase",
+    "storage_bucket": "motionmonitorfirebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:447077169675:android:45560df3276fb4679aa50e",
+        "android_client_info": {
+          "package_name": "com.sjm.motionmonitor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "447077169675-5d0kae8ubr4fbunebj1s90e4omgenibm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx3uyFSLThFEKylZlNjG65HBRwcMPqeJQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "447077169675-5d0kae8ubr4fbunebj1s90e4omgenibm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
